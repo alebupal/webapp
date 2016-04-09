@@ -1,0 +1,23 @@
+{
+  "name": "webapp",
+  "description": "Plantilla para hacer aplicaciones web",
+  "main": "index.html",
+  "authors": [
+    "Alejandro Bueno Palma"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "webapp",
+    "gulp",
+    "sass",
+    "jade"
+  ],
+  "homepage": "https://github.com/alebupal/webapp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
